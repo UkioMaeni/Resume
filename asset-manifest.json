@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/Resume/static/js/main.fc79f91f.js",
+    "static/media/photo.png": "/Resume/static/media/photo.2f52616c61552a2e144c.png",
+    "index.html": "/Resume/index.html",
+    "main.fc79f91f.js.map": "/Resume/static/js/main.fc79f91f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fc79f91f.js"
+  ]
+}
